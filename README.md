@@ -1,2 +1,3 @@
-# sql-data-warehouse-project
+# Data Warehouse and Analytics Project
+
 Building modern data warehouse with Azure SQL server, including ETL process, data modelling and analytics.
